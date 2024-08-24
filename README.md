@@ -1,4 +1,4 @@
-# Gemini Clone - Frontend with API Integration
+# Gemini Clone - Frontend with ReactJS and Gemini API
 
 ![Project Logo/Preview Image](./assets/screenshot.png)
 
